@@ -3,5 +3,6 @@
 ! Expires: 1 day (update frequency)
 ! Licence: https://raw.github.com/AnthonyDiSanti/online_configuration_files/master/LICENSE
 *.infolinks.com/*
-*.kontera.com/*
-*.intellitxt.com/*
+kontera.com
+intellitxt.com
+googlesyndication.com

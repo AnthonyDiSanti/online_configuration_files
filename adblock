@@ -2,15 +2,15 @@
 ! Title: Anthony DiSanti's Filters
 ! Expires: 1 day (update frequency)
 ! Licence: https://raw.github.com/AnthonyDiSanti/online_configuration_files/master/LICENSE
-*.infolinks.com/*
-kontera.com
-intellitxt.com
-googlesyndication.com
-zedo.com
-traffichaus.com
-brightcove.com
-adsafeprotected.com
-visiblemeasures.com
-livejasmine.com
-keezlive.com
-pornhublive.com
+^infolinks.com^
+^kontera.com^
+^intellitxt.com^
+^googlesyndication.com^
+^zedo.com^
+^traffichaus.com^
+^brightcove.com^
+^adsafeprotected.com^
+^visiblemeasures.com^
+^livejasmine.com^$popup
+^keezlive.com^$popup
+^pornhublive.com^$popup

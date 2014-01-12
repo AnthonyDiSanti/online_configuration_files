@@ -15,8 +15,10 @@
 ||visiblemeasures.com^
 ||2mdn.net^
 ||liverail.com^
-||ads.gawkerassets.com
 ||onescreen.net^
+
+! Multiple-Domain Filters
+||ads.gawkerassets.com
 
 ! Popup Filters
 ||livejasmine.com^$popup
